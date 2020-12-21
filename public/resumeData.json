@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name":"Ritesh Kumar Singh",
+    "occupation":"Student || Developer || ML Enthusiast",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Pursuing Master of Computer Applications at Kongu Engineering College, Erode(India) with excellent academic record, keen interested with practical exposure in the field of Computer Science, especially in Machine Learning, Deep Learning, Data Sciences, Front end and Backend Development.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "kec.riteshh@gmail.com",
+    "phone": "8051313430",
+    "address":{
+      "street":"Raniganj, ",
+      "city":"Araria, ",
+      "state":"Bihar, ",
+      "zip": "854312"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1HRXhAiO-VHQO6L5OdCKuw6Z5K6Wca7Cc/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/mr.riteshsinghh",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/i_mrritesh",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"mailto:kec.riteshh@gmail.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"linkedin.com/in/ritesh-kumar-singh-aa6212180",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/i.mrritesh",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/imrritesh",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/VdPfWQRflQPy",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My Skill bars, working hard to make it complete dark.",
+    "education":[
+      {
+        "school":"Kongu Engineering College, Erode(India)",
+        "degree":"Master of computer applications",
+        "graduated":"Aug 2018 - Present",
+        "description":""
+      },
+      {
+        "school":"A N College, Patna(India)",
+        "degree":"Bachalor In Information Technology",
+        "graduated":"July 2014 - Oct 2017",
+        "description":""
+      },
+      {
+        "school":"Y N P Inter College, Raniganj(India)",
+        "degree":"Intermediate Maths",
+        "graduated":"March 2011 - May 2013",
+        "description":""
+      },
+      {
+        "school":"L H S, Raniganj(India)",
+        "degree":"Senior Secondary",
+        "graduated":"March 2010 - May 2011",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"It's Loading...",
+        "title":"",
+        "years":"",
+        "description":"Something exciting coming soon..."
+      },
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"C Programming",
+        "level":"75%"
+      },
+      {
+        "name":"Python for Data Science",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "name":"Java Programming",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Own Profile",
+        "category":"",
+        "image":"canadian-wanderlust.jpg",
+        "url":""
+      },
+      {
+        "title":"Coming Soon..",
+        "category":"",
+        "image":"fury-fighting-gear.jpg",
+        "url":""
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+        "user":"Dan Salomon"
+      },
+      {
+        "text":"Always code as if the guy who ends up maintaning your code will be a violent psychopath who knows where you live.",
+        "user":"Rick Osborne"
+      }
+    ]
+  }
+}
